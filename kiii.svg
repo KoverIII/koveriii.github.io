@@ -23,9 +23,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="280.15904"
-     inkscape:cy="588.68134"
+     inkscape:zoom="0.175"
+     inkscape:cx="-179.23516"
+     inkscape:cy="1276.4846"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -43,7 +43,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -52,14 +52,11 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-5.0268661,-66.259005)">
-    <rect
-       style="fill:#292b2c;fill-opacity:1;fill-rule:evenodd;stroke-width:1.065"
+    <path
        id="rect835"
-       width="143.63095"
-       height="143.63095"
-       x="-115.11314"
-       y="122.2222"
-       transform="rotate(-45)" />
+       style="fill:#292b2c;fill-opacity:1;fill-rule:evenodd;stroke-width:1.065"
+       transform="rotate(-45)"
+       d="M -115.11314,122.2222 H 28.517815 V 265.85315 H -115.11314 Z" />
     <text
        xml:space="preserve"
        style="font-size:50.8px;line-height:1.25;font-family:'Bitter Pro';-inkscape-font-specification:'Bitter Pro';stroke-width:0.264583"
@@ -70,28 +67,32 @@
          id="tspan837"
          x="68.035713"
          y="139.85118"
-         style="stroke-width:0.264583"></tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:123.472px;line-height:1.25;font-family:'Bitter Pro';-inkscape-font-specification:'Bitter Pro';fill:#f6f5f5;stroke-width:0.264583;fill-opacity:1;"
-       x="70.024612"
-       y="169.44887"
-       id="text853"><tspan
-         sodipodi:role="line"
-         id="tspan851"
-         x="70.024612"
-         y="169.44887"
-         style="font-size:123.472px;fill:#f6f5f5;stroke-width:0.264583;fill-opacity:1;">k</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:137.139px;line-height:1.25;font-family:'Bitter Pro';-inkscape-font-specification:'Bitter Pro';fill:#f6f5f5;stroke-width:0.29387;fill-opacity:1;"
-       x="32.134609"
-       y="272.52319"
-       id="text857"><tspan
-         sodipodi:role="line"
-         id="tspan855"
-         x="32.134609"
-         y="272.52319"
-         style="font-size:137.139px;fill:#f6f5f5;stroke-width:0.29387;fill-opacity:1;">III</tspan></text>
+         style="stroke-width:0.264583" /></text>
+    <g
+       aria-label="k"
+       id="text853"
+       style="font-size:123.472px;line-height:1.25;font-family:'Bitter Pro';-inkscape-font-specification:'Bitter Pro';fill:#f6f5f5;fill-opacity:1;stroke-width:0.264583">
+      <path
+         d="m 120.64813,131.91338 14.07581,26.66995 7.77874,2.09903 v 8.76651 h -20.00247 l -15.18705,-30.37411 h -9.877764 v 18.89121 l 7.902204,2.59291 v 8.88999 H 72.000164 v -8.88999 l 8.149152,-2.34596 V 85.61138 L 72.000164,83.265412 V 74.375428 L 97.435396,73.387652 V 127.59186 H 107.5601 l 8.76651,-13.58192 -6.42054,-1.23472 v -8.76651 l 30.12717,-0.98778 v 8.76651 l -6.91444,1.60514 z"
+         style="font-size:123.472px;fill:#f6f5f5;fill-opacity:1;stroke-width:0.264583"
+         id="path846" />
+    </g>
+    <g
+       aria-label="III"
+       id="text857"
+       style="font-size:137.139px;line-height:1.25;font-family:'Bitter Pro';-inkscape-font-specification:'Bitter Pro';fill:#f6f5f5;fill-opacity:1;stroke-width:0.29387">
+      <path
+         d="m 76.841926,175.97733 v 9.87401 l -10.011148,3.42848 v 70.35231 l 10.011148,3.01705 v 9.87401 H 37.071613 v -9.87401 L 47.2199,259.76927 v -70.48945 l -10.148287,-2.74278 v -9.87401 z"
+         style="font-size:137.139px;fill:#f6f5f5;fill-opacity:1;stroke-width:0.29387"
+         id="path849" />
+      <path
+         d="m 126.48618,175.97733 v 9.87401 l -10.01115,3.42848 v 70.35231 l 10.01115,3.01705 v 9.87401 H 86.715866 v -9.87401 l 10.148287,-2.87991 v -70.48945 l -10.148287,-2.74278 v -9.87401 z"
+         style="font-size:137.139px;fill:#f6f5f5;fill-opacity:1;stroke-width:0.29387"
+         id="path851" />
+      <path
+         d="m 176.13043,175.97733 v 9.87401 l -10.01115,3.42848 v 70.35231 l 10.01115,3.01705 v 9.87401 h -39.77031 v -9.87401 l 10.14829,-2.87991 v -70.48945 l -10.14829,-2.74278 v -9.87401 z"
+         style="font-size:137.139px;fill:#f6f5f5;fill-opacity:1;stroke-width:0.29387"
+         id="path853" />
+    </g>
   </g>
 </svg>
