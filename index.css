@@ -1,0 +1,100 @@
+
+h1 {
+
+    font-weight: 700;
+}
+
+h2 {
+
+    font-weight: 700;
+}
+h3 {
+
+    font-weight: 500;
+}
+
+.Title{
+    width: 100px;
+    height: 100px;
+    display: grid;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 0;
+}
+
+@keyframes Title_Intro{
+
+    from{
+        margin-top: 100vh;
+        width: 400px;
+        height: 400px;
+    }
+
+    to{
+        margin-top: 0;
+        width: 100px;
+        height: 100px;
+    }
+
+}
+
+.Section-1{
+    color: #292b2c;
+    text-align: center;
+    /*animation-name:"Section-1_Intro";*/
+    animation-duration: 2s; 
+}
+
+@keyframes Section-1_Intro{
+
+    from{
+        margin-left: 200vh;
+
+    }
+
+    to{
+        margin-left: 0;
+
+    }
+
+}
+
+.Section-2{
+    color: #f6f5f5;
+    background-color: #070d59;
+}
+.Section-3{
+    color: #f6f5f5;
+    background-color: #ee6f57;
+}
+.Section-4{
+    background-color: #1f3c88;
+    color: #f6f5f5;
+}
+html {
+    overflow: -moz-scrollbars-vertical; 
+    overflow-y: scroll;
+    overflow-x: hidden;
+    font-size: 1rem;
+}
+
+@media (min-width: 576px) {
+    html { font-size: 1.25rem; }
+}
+@media (min-width: 768px) {
+    html { font-size: 1.5rem; }
+}
+@media (min-width: 992px) {
+    html { font-size: 1.75rem; }
+}
+@media (min-width: 1200px) {
+    html { font-size: 2rem; }
+}
+
+body{
+    margin-top: 0.5%;
+    background-color: #f6f5f5;
+    font-family: 'Bitter', serif; 
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
